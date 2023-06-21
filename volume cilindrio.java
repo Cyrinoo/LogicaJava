@@ -1,4 +1,4 @@
-/* Faça um programa que calcula e mostra o volume de um cilindro.
+/* Faça um programa que calcula e mostra o volume de um cilindro.*/
 
 package com.mycompany.lista.de.exercicio.java;
 import java.util.Scanner;
@@ -14,4 +14,3 @@ public class ListaDeExercicioJava {
        System.out.println("O volume do cilindro é de: "+volume);
         }
 }
-*/
