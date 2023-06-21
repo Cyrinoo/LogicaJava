@@ -1,6 +1,6 @@
 /* Faça um programa que 
 receba o peso de uma pessoa em quilos, calcule 
-e mostre esse peso em gramas.
+e mostre esse peso em gramas. */
 
 package com.mycompany.lista.de.exercicio.java;
 import java.util.Scanner;
@@ -15,4 +15,4 @@ public class ListaDeExercicioJava {
 
         
     }
-}*/
+}
