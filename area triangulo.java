@@ -1,5 +1,5 @@
 /* Faça um programa que pede para o usuário digitar a altura e a base de um 
-triangulo, em seguida calcule e escreva a sua área.
+triangulo, em seguida calcule e escreva a sua área.*/
 
 package com.mycompany.lista.de.exercicio.java;
 import java.util.Scanner;
@@ -16,4 +16,3 @@ public class ListaDeExercicioJava {
        System.out.println("A Área do Triagulo é:"+area);
     }
 }
-*/
